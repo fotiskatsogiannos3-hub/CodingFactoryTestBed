@@ -1,0 +1,4 @@
+{ location: 'Athens', latitude: 37.9838, longitude: 23.7275 },
+{ location: 'Thessaloniki', latitude: 40.6401, longitude: 22.9444 },
+{ location: 'Patras', latitude: 38.2666, longitude: 21.7346 },
+{ location: 'Heraklion', latitude: 35.3387, longitude: 25.1442 },
